@@ -40,7 +40,7 @@ We also build and operate our own platforms, and publish our research and toolin
 | Project | Focus | Licence |
 | :--- | :--- | :--- |
 | [Your Voice](https://github.com/CogniTechSystems/your-voice) | Locally hosted language models that write documents in your own voice. | AGPL-3.0 |
-| [Bug Hunt Benchmark](https://github.com/CogniTechSystems/bug-hunt-benchmark) | Benchmarks local language models on real debugging tasks, with every fix verified against hidden tests. | AGPL-3.0 |
+| [Bugs Benchmark](https://github.com/CogniTechSystems/bugs-benchmark) | Benchmarks local language models on real debugging tasks, with every fix verified against hidden tests. | AGPL-3.0 |
 | [Qwen3.8 Claude Code](https://github.com/CogniTechSystems/qwen3.8-claude-code) | Qwen3.8-27B running locally on Apple Silicon, benchmarked and connected to Claude Code. | Apache-2.0 |
 | [Muse-Glimmer-30B Claude Code](https://github.com/CogniTechSystems/muse-glimmer-claude-code) | Meta's Muse-Glimmer-30B running locally on Apple Silicon, benchmarked and connected to Claude Code. | Apache-2.0 |
 | [MoE on Arc](https://github.com/CogniTechSystems/moe-on-arc) | Qwen3.6 mixture of experts on Intel integrated graphics, measuring accuracy as well as speed. | Apache-2.0 |
